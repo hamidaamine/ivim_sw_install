@@ -5,8 +5,6 @@ if need to change directories or any package version please make sure to modify 
 
 ## Prerequisits
 
-Make sure /etc/hosts is filled with right information
-
 Download all required packages, in this example the packages was uploaded to /app/list/data/sources/
 
 List of Packages:
@@ -379,7 +377,7 @@ unzip DB2_SEVPC_OA_11.5.4_MP_ML.zip
 /tools/list/product/IBM/db2/V11.5.9/adm/db2licm -l
 ```
 
-## Install IBM Security Directory Server (SDS, JAVA, GSKit, Fix Pack) (https://www.ibm.com/support/pages/security-directory-server-64-installation-db2-111-linux)
+## Install IBM Security Directory Server (SDS, JAVA, GSKit, Fix Pack)
 
 ### Install GSKit
 #### Untar the GSKit file and install rpms
